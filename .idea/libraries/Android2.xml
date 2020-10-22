@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Plugins/Android/androidx.arch.core.core-common-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Plugins/Android/com.squareup.okhttp3.okhttp-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Plugins/Android/com.github.bumptech.glide.disklrucache-4.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Plugins/Android/com.google.code.findbugs.jsr305-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Plugins/Android/androidx.annotation.annotation-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Plugins/Android/com.amazonaws.aws-android-sdk-cognito-2.16.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Plugins/Android/com.amazonaws.aws-android-sdk-core-2.16.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Plugins/Android/androidx.constraintlayout.constraintlayout-solver-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Plugins/Android/com.google.code.gson.gson-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Plugins/Android/shared.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Plugins/Android/com.amazonaws.aws-android-sdk-cognitoidentityprovider-asf-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Plugins/Android/com.amazonaws.aws-android-sdk-cognitoidentityprovider-2.16.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Plugins/Android/com.github.bumptech.glide.annotations-4.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Plugins/Android/androidx.collection.collection-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Plugins/Android/androidx.lifecycle.lifecycle-common-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Plugins/Android/com.squareup.okio.okio-1.13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
